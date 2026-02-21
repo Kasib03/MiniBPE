@@ -22,7 +22,7 @@ Run from inside the `MiniBPE` directory:
 
 ```bash
 cd MiniBPE
-python3 train.py
+python train.py
 ```
 
 `train.py` writes (and overwrites) `Vocab.json`.
